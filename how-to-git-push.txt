@@ -1,0 +1,12 @@
+
+
+# STEP 1, git clone [link repository di github]
+# STEP 2, cd [nama repositorynya] -> memastikan sudah masuk ke repository nya masing-masing (ninjaxpress-training)
+# STEP 3, save semua file-file python di repository tersebut
+# STEP 4, transfer semua file-file tersebut ke github dengan cara di bawah ini
+
+git add .
+git commit -m "Simpan semua file pert-1"
+git push origin
+
+# OPTIONAL, jika error autentikasi lakukan git config --global user.email “muha.muttaqien@gmail.com”
